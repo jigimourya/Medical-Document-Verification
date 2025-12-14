@@ -1,0 +1,11 @@
+flask
+flask-cors
+pytesseract
+pdfplumber
+pdf2image
+pillow
+torch
+transformers
+datasets
+scikit-learn
+pandas
