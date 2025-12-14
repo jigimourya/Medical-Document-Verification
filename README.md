@@ -154,10 +154,21 @@ Frontend runs at:
 http://localhost:3000
 ```
 ## 📊 Sample Output
+### Medical Document Verification Interface
+#### Initial Upload Interface
+<figure>
+  <img src="https://github.com/user-attachments/assets/8ba4611c-59e5-45cc-bd1a-3583d0b73660" alt="Description" width="500"/>
+</figure>
 
-<img width="1422" height="772" alt="image" src="https://github.com/user-attachments/assets/8ba4611c-59e5-45cc-bd1a-3583d0b73660" />
-<img width="964" height="1233" alt="image" src="https://github.com/user-attachments/assets/ad536002-bc9c-47ce-a44e-1dc37c76c592" />
-<img width="949" height="1049" alt="image" src="https://github.com/user-attachments/assets/116a2b4e-eda5-46fc-8109-1a83a2569df3" />
+#### Valid Document Verification
+<figure>
+  <img src="https://github.com/user-attachments/assets/ad536002-bc9c-47ce-a44e-1dc37c76c592" alt="Description" width="500"/>
+</figure>
+
+#### Invalid Document Verification
+<figure>
+  <img src="https://github.com/user-attachments/assets/116a2b4e-eda5-46fc-8109-1a83a2569df3" alt="Description" width="500"/>
+</figure>
 
 
 ## 🎓 Academic Relevance
